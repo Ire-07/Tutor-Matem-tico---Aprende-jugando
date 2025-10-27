@@ -65,7 +65,8 @@ Seguí las instrucciones paso a paso
 
 Realizá los ejercicios interactivos para reforzar tus conocimientos
 
-🖼 Capturas de pantalla
+
+
 <img width="341" height="253" alt="paralelogramos" src="https://github.com/user-attachments/assets/eff46dac-6967-4789-96c7-a5b86ee539df" />
 
 
